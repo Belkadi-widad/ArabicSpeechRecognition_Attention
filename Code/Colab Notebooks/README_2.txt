@@ -1,0 +1,3 @@
+* Construction_Apprentissage_Modele_Attention_ArabicSpeechReco:  fichier .py et .ipynb(le notebook de google colab) ou nous avons construit et fait l'apprentissage
+*Faire_Prediction_ArabicSpeechReco: fichier .py et .ipynb(le notebook de google colab)  ou nous avons fait des prédictions 
+*Tensorboard.ipynb : le notebook qui permet d'ouvrir tensorboard et visualiser tous les logs de tous les modèles . 
